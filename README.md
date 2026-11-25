@@ -16,3 +16,5 @@ This repository contains the lab reports and assignments for the **Computer Netw
 - **Skill Programs/**
   - `CN_Skill1_Report.pdf`: Lab Skill-1: Encapsulation Builder
   - `CN_Skill2_Report.pdf`: Lab Skill-2: Three-Point Capture
+  - `CN_Skill3_Report.pdf`: Lab Skill-3: Queueing Curve, Little’s Law, and Buffer Analysis
+  - `CN_Skill4_Report.pdf`: Lab Skill-4: Percentiles, Bandwidth-Delay Product (BDP), and Buffer Analysis
